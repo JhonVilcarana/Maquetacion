@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aliceblue;
+   
+}
+#contenido{
+    width: 1000px;
+    height: 750px;
+    background-color: aqua;
+    border: 1px solid violet;
+    margin: 0 auto;
+}
+#header{
+    width: 1000px;
+    height: 150px;
+    background-color: blue;
+
+}
+#logo{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    
+}
+#titulo{
+    width: 300px;
+    height: 500px;
+    background-color: rgb(43, 226, 171);
+    
+}
+#menu{
+    width: 1000px;
+    height: 50px;
+    background-color: greenyellow;
+}
+#centro{
+    width: 1000px;
+    height: 500px;
+    background-color: orange;
+}
+#article{
+    width: 700px;
+    height: 500px;
+    background-color: violet;
+    float: left;
+    
+}
+#aside{
+    width: 300px;
+    height: 500px;
+    background-color: orange;
+    float: left;
+}
+#footer{
+    width: 1000px;
+    height: 50px;
+    background-color: yellow;
+}
